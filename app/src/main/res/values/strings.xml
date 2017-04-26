@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TimeSetChallenge</string>
+    <string name="d_1">1</string>
+    <string name="d_2">2</string>
+    <string name="d_3">3</string>
+    <string name="d_4">4</string>
+    <string name="d_5">5</string>
+    <string name="d_6">6</string>
+    <string name="d_7">7</string>
+    <string name="d_8">8</string>
+    <string name="d_9">9</string>
+    <string name="d_11">11</string>
+    <string name="d_12">12</string>
+    <string name="d_13">13</string>
+    <string name="d_14">14</string>
+    <string name="d_15">15</string>
+    <string name="d_17">17</string>
+    <string name="d_18">18</string>
+    <string name="d_19">19</string>
+    <string name="d_20">20</string>
+    <string name="d_21">21</string>
+    <string name="d_22">22</string>
+    <string name="d_23">23</string>
+    <string name="Result">"RESULT = "</string>
+
+</resources>
